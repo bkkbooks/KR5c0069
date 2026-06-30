@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0069/krp/v1/juan/0
+seq: 0
+front:
+  text: 道德真經傳表必五臣惠卿言臣聞庖丁奏刀得養生於文惠輪扁釋鑿議讀書於齊桓志之不分道或有在臣誠惶誠懼頓首頓首臣竊以大制散於智慧之僞含生失其性情之初爰有真人起明至教獨推原於道德蓋祖述於典墳是以雞犬相聞莊周指謂神農而上谷神不死列子稱為黃帝之書究其微言中有妙物唯恍唯惚視聽莫得以見聞不古不今迎隨孰知其首尾失之其出彌遠至寶祕於荆山而莫知悟之不召自來玄珠索之象罔而可得軒轅華胥之國唐堯姑射之山皆極至遊遂臻泰定此書之指其詣不殊曹參師於蓋公而相齊國孝文傳之河上而為漢宗僅得淺膚猶幾康阜夫唯俗學不識道真徒見其文有異詩書之迹莫知其指乃是皇王之宗故聞不尚賢則謂遺之野而不收不貴貨則謂棄諸地而不用謂絶學則無憂等於禽犢謂絶聖則無法同於鴻荒不知靈府之間有若清眸之上雖留金屑亦翳神光故令善惡之兩遺而極沖虛之一致兹難情度宜使智迷遂以允聖之信言列於百家之珍說發兹微學宜屬至神伏惟皇帝陛下以高真之質而出應君師以妙本之餘而形為事業蠱飭而庶政交舉革當而四方已孚方將齊心服形而捐治物養已之纍深根固蒂以趣長生久視之門同天下於華胥見神人於姑射深造其極適丁斯時臣性維顓蒙生足憂患每思朝徹以解天韜泛觀以考其散殊又損而期於吻合維日不足歷年於兹晚於斯文忽若有得即動而靜物藝藝而歸根由濁以清中冥冥而見曉遂以其意達之於辭雖云自安未知其可竊謂至人之靜鑑實為學者之元龜敢用冒聞以占中否龍隨章散固難知其上天馬以智專因可取於辨道儻有一言之補敢辭萬死之誅所著老子道德經傳凡四册謹奉表投進以聞臣惠卿誠惶誠懼頓首頓首謹言
+  hash: sha256:bf1f25c70e62920bdb58603ab4a8d5999606af5fa5f50b1f44ef806986acfb7c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0069_HFL_000-001a, image: hfl/0369/0369-004.png}
+body:
+  text: 元豐元年正月日資政殿學士通議大夫定州路安撫使馬步軍都總管兼知定州軍州事及管內勸農使上輕車都尉東平縣開國伯食邑八百户臣吕惠卿上表
+  hash: sha256:2dfda3b4eda6f2047fa6092897bfe9939e00020679823a7509cf1d93e722d857
+metadata:
+  title: 道德真經傳(二)
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:18:22.186939'
+  source:
+    repository: kanripo
+    path: KR5c0069/KR5c0069_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:1164c78ce2a0c73e23ca7d9618921220c09ad0fb0f225aee139ac12293d83fdf
